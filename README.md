@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-Experimental repository gor the prepcourse
+Este es un repositorio de prueba para el curso de Prepcourse de Henry.
